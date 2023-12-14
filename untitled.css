@@ -1,0 +1,65 @@
+.column{
+    margin-top: 10px;
+    
+}
+body {background-color:black;}
+.container{
+    margin-top: 20px;
+    padding: 10px;
+}
+.column h1{
+   margin-left: 60px;
+   color: white;
+}
+.column p{
+    margin-left: 60px;
+    margin-top: 0px;
+    color: white;
+}
+.image{
+    float: left;
+}
+.para p{
+    margin-top: -8px;
+    font-size: xx-small;
+    color: white;
+}
+.para h2{
+    color: white;
+    font-size: small;
+}
+.carousel-inner{
+   padding-top: 20px;
+    padding-left: 30%;
+}
+.text{
+    font-size: 40px;
+    font-weight: bold;
+    padding: 10px;
+    padding-left: 50px;
+    color: white;
+}
+.container2{
+    padding-top: 100px;
+}
+.col1{
+    width: 290px;
+    height: 200px;
+    padding: 20px;
+}
+.row{
+    padding: 3px;
+    padding-left: 85px;
+    padding-top: 20px;
+}
+.container3{
+    padding-top: 100px;
+}
+.container4{
+    padding-top: 120px;
+}
+.f{
+    font-size: 30px;
+    font-weight: bold;
+    
+}
